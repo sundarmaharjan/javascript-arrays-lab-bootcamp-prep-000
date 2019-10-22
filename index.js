@@ -1,6 +1,7 @@
 var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 
 // Add your functions and code here
+<<<<<<< HEAD
 function destructivelyAppendKitten(name) {
 kittens.push(name);
 return kittens;
@@ -39,3 +40,10 @@ function appendKitten(name) {
 function prependKitten(name) {
   return [name, ...kittens];
 }
+=======
+function destructivelyAppendKitten(Milo) {
+  Otis.push();
+}
+
+function de
+>>>>>>> 0a3882d048a38a5bfd27df02eddbf2f22750fce4
